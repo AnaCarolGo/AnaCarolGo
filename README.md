@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnaCarolGo](https://github.com/AnaCarolGo)
 
-- 💬 Ask me about **Postman, Swagger API, SQL, JIRA**
+- 💬 Ask me about **Postman, Swagger API, SQL, JIRA, Functional testing, Regression testing, Smoke testing, Manual testing**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ana-caroline-godinho-312b88167/](https://www.linkedin.com/in/ana-caroline-godinho-312b88167/)
 
